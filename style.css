@@ -440,11 +440,11 @@
 	background-color: #191919 !important;
 }
 
-.planOptionDiscount-2nex9n,
+/* .planOptionDiscount-2nex9n,
 .checkbox-f1HnKB.checked-1pZh2h {
 	background-color: #494949 !important;
 	border-color: rgb(56, 56, 56) !important;
-}
+} */
 
 
 /* circle buttons modification since the original looks like dog water */
@@ -743,9 +743,9 @@
 	}
 }
 
-.pill-L_aLMQ.bd-selected+.listItemWrapper-3d87LP .homeIcon-r0w4ny {
+/* .pill-L_aLMQ.bd-selected+.listItemWrapper-3d87LP .homeIcon-r0w4ny {
 	animation: spin 0.8s ease;
-}
+} */
 
 
 /* Game activity toggle */
@@ -908,9 +908,9 @@ button[aria-label="Show Game Activity"]::before {
 	background-color: transparent;
 }
 
-.checkbox-f1HnKB {
+/* .checkbox-f1HnKB {
 	transition: 0.3s ease;
-}
+} */
 
 
 /* user setting buttons */
